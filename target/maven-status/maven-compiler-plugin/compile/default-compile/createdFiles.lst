@@ -9,10 +9,17 @@ com\tushar\cias_btushar\ConfirmComplaintController.class
 com\tushar\cias_btushar\FXMLWomenSafetyController.class
 com\tushar\cias_btushar\AddComplaintHomeController.class
 com\tushar\cias_btushar\ClimaxController.class
+com\tushar\cias_btushar\DashboardController.class
 com\tushar\cias_btushar\FXMLCiasController.class
+com\tushar\cias_btushar\Loading2Controller.class
+com\tushar\cias_btushar\MapController.class
 com\tushar\cias_btushar\DbConnection.class
+com\tushar\cias_btushar\Dashboard_AsiaController.class
+com\tushar\cias_btushar\RadarController.class
+com\tushar\cias_btushar\Dashboard_IndiaController.class
 com\tushar\cias_btushar\BeforeComplaintController.class
 com\tushar\cias_btushar\TempController.class
 com\tushar\cias_btushar\WomenReportController.class
+com\tushar\cias_btushar\Dashboard_MainController.class
 com\tushar\cias_btushar\FXMLRegistrationController.class
 com\tushar\cias_btushar\FinalLoadingController.class

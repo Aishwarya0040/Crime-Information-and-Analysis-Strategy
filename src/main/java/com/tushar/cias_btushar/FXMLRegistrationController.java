@@ -107,7 +107,7 @@ public class FXMLRegistrationController implements Initializable {
             int i = pst.executeUpdate();
             if(i>0)
             {
-                System.out.println("Success Reg Entry");
+               
                 pst.close();
                 sql = "insert into login (id,pwd) values(?,?)";
                 pst = conn.prepareStatement(sql);
@@ -116,7 +116,7 @@ public class FXMLRegistrationController implements Initializable {
                 i = pst.executeUpdate();
                 if(i>0)
                 {
-                    System.out.println("Success login Entry");
+                  
                     success.setVisible(true);
                     firstN.setText("");
                     lastN.setText("");
@@ -127,7 +127,7 @@ public class FXMLRegistrationController implements Initializable {
                    // sign.setStyle("-fx-background-color: #008000");
                 }
             }else{
-                System.out.println("Fail");
+               
             }
         }
             

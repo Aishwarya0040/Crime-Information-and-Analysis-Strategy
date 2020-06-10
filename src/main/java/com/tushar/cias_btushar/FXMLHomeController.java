@@ -97,7 +97,7 @@ public class FXMLHomeController implements Initializable {
     @FXML
     private void gotoDashboard(ActionEvent event) {
         ((Node)(event.getSource())).getScene().getWindow().hide();
-        loadStage("Loading2.fxml");
+        loadStage("/fxml/Loading2.fxml");
 
     }
     public void homeset(boolean b)

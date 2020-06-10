@@ -78,3 +78,7 @@ and open the template in the editor.
 .radius{
     -fx-background-radius: 50px;
 }
+.dash{
+    -fx-border-color: #ff0000;
+    -fx-border-radius: 10px;
+}
